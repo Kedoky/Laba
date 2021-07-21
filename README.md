@@ -1,2 +1,2 @@
-# Laba
-Laba
+# Laboratory work
+Laboratory work
